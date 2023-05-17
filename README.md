@@ -4,4 +4,5 @@
 - I'm interested in frontend development because I want to help make web-world more beautiful
 - I use JavaScript, React, Redux, Figma
 
-Here's the [link](https://seltaria.github.io/) to my portfolio
+Here's the [link](https://seltaria.github.io/) to my portfolio <br>
+My [CodeWars profile](https://www.codewars.com/users/seltaria)
